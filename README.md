@@ -1,5 +1,5 @@
 # Corbin's Data Analytics Portfolio
 
-# Spotify Song Success Analysis
+## Spotify Song Success Analysis
 
-# Gender Pay Gap Analysis 
+## Gender Pay Gap Analysis 
